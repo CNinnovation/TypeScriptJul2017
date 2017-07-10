@@ -67,7 +67,7 @@ alert('hello, world!');
 
 ## ASP.NET Core
 
-To create new Web applications, install .NET Core extensions to Visual Studio 2015
+To create new Web applications, install .NET Core extensions to Visual Studio 2017
 
 1. Install .NET Core on Windows using [Visual Studio official MSI installer](https://www.microsoft.com/net/core#windows ".NET Core")
 2. Install the latest [NuGet Manager extensions for Visual Studio](https://www.microsoft.com/net/core#windows "NuGet")
